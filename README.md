@@ -33,6 +33,11 @@ Interactive Tableau dashboard to monitor project progress, workload distribution
 🔗 Repository:  
 https://github.com/nishantsuryawanshi2000/Tableau-Project-Tracking-Dashboard
 
+### 📊 Sales Performance Dashboard (Tableau)
+Analyzing revenue trends, regional sales performance, and product profitability.
+🔗 Repository: 
+https://github.com/nishantsuryawanshi2000/Tableau-Sales-Performance-Dashboard
+
 ---
 
 ## Currently Learning
@@ -44,9 +49,6 @@ https://github.com/nishantsuryawanshi2000/Tableau-Project-Tracking-Dashboard
 ---
 
 ## 🚀 Upcoming Projects
-
-### 📊 Sales Performance Dashboard (Tableau)
-Analyzing revenue trends, regional sales performance, and product profitability.
 
 ### 👥 HR Analytics Dashboard (Power BI)
 Workforce insights including employee attrition, hiring trends, and department performance.
