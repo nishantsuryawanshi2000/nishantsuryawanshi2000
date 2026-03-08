@@ -1,16 +1,65 @@
-## Hi there 👋
+## Hi, I'm Nishant 👋
 
-<!--
-**nishantsuryawanshi2000/nishantsuryawanshi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Information Technology  
+📍 Frankfurt, Germany  
+📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Tools**
+- Tableau
+- Power BI
+- SQL
+- Python
+- Excel
+
+**Data Skills**
+- Data Visualization
+- Dashboard Development
+- Data Cleaning
+- Business Intelligence
+- Data Analysis
+
+---
+
+## Projects
+
+### 📊 Project Tracking Dashboard (Tableau)
+
+Interactive Tableau dashboard to monitor project progress, workload distribution, and task timelines.
+
+🔗 Repository:  
+https://github.com/nishantsuryawanshi2000/Tableau-Project-Tracking-Dashboard
+
+---
+
+## Currently Learning
+
+- Advanced Tableau Dashboards
+- SQL for Data Analytics
+- Business Intelligence Projects
+
+---
+
+## 🚀 Upcoming Projects
+
+### 📊 Sales Performance Dashboard (Tableau)
+Analyzing revenue trends, regional sales performance, and product profitability.
+
+### 👥 HR Analytics Dashboard (Power BI)
+Workforce insights including employee attrition, hiring trends, and department performance.
+
+### 🛒 E-Commerce Sales Analysis (Tableau)
+Customer purchase behavior, product category performance, and sales trends.
+
+### 📦 Supply Chain Performance Dashboard (Power BI)
+Monitoring inventory levels, delivery timelines, and supplier performance.
+
+---
+
+## Connect With Me
+
+LinkedIn:  
+https://www.linkedin.com/in/nishant-suryawanshi-06/
